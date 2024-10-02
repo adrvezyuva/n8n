@@ -1,2 +1,2 @@
 # Hallo Welt!
-# Test for UPDATESc
+# Test for UPDATES
