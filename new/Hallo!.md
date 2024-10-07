@@ -1,2 +1,0 @@
-# Das bedeutet
-# Hallo Welt!
