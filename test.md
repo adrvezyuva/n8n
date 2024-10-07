@@ -1,4 +1,4 @@
-# TESTINGt :) :( 6
+# TESTING
 ## n8n
 ## YES
 ## NO
