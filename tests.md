@@ -1,2 +1,2 @@
 # Test files'filtering 
-# I need 2 files
+# I need 2 files filtered
