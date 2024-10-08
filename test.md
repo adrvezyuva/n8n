@@ -1,2 +1,2 @@
-# TESTs
+# TEST
 ## N8N
