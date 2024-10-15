@@ -1,3 +1,3 @@
-# n8nw
+# n8n
 # THIS IS A TEST FOLDER
 # TESTs
