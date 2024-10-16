@@ -11,3 +11,6 @@
 * **Working with Repositories** - <https://www.devdungeon.com/content/working-git-repositories-python><br><br>
 
 ## 1. Terminology
+
+### Here I will instert a picture: New files are shown:
+![Alarm button with configuration: Pause all alarms](<contents/assets/10.PNG>)  
