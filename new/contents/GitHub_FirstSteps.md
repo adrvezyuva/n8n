@@ -1,4 +1,4 @@
-# JWT OUTPUT
+# JWT OUTPUT :)
 
 ## GitHub Docs for Dummies
 
