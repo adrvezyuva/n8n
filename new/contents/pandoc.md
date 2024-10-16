@@ -1,4 +1,5 @@
 # NEW VERSION FOR THE SUMMARY
+![Alarm button with configuration: Pause all alarms](<contents/assets/1.PNG>)  
 ## Pandoc for Windows 
 ### Installing and working with Pandoc 
 #### About Pandoc
