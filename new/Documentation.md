@@ -1,4 +1,4 @@
-# Accessing Data in Appwrite - Visual Studio Code
+# Accessing Data in Appwrite - Visual Studio Code 
 
 ### First, you have to import the required modules
 
