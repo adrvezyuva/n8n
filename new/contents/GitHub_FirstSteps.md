@@ -1,5 +1,3 @@
-# JWT OUTPUT ...17
-
 ## GitHub Docs for Dummies
 
 ### Sources
